@@ -19,7 +19,7 @@ Users should be able to:
 - Tax is based on the state of Tennessee sales tax: 0.0975
 
 ### Links
-- Solution URL: 
+- Solution URL: https://github.com/mod771/E-Commerce-Component
 - Live Site URL:
 
 ## My Process
@@ -36,12 +36,18 @@ everytime a button was clicked.
 ## What I Learned
   I leanred about how to create new elements using javascipt, how to add class names and remove them, how to add these new elements using appendChild or remove them. 
   I have a better understanding of how event listerners work. I also leanred about textContent. 
+  
   To create a new Element: 
+  
     var newItem = document.createElement("li");
+    
   To add/remove a class:
+  
     divPlate.classList.add("plate");
     document.getElementsByClassName("add")[index].classList.remove("in-cart");
-  To add/remove a childNode from its parentNode
+    
+  To add/remove a childNode from its parentNode:
+  
     summaryList.appendChild(newItem);
      summaryList.removeChild(newItem);
 
