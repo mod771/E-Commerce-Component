@@ -35,7 +35,8 @@ everytime a button was clicked.
 
 ## What I Learned
   I leanred about how to create new elements using javascipt, how to add class names and remove them, how to add these new elements using appendChild or remove them. 
-  I have a better understanding of how event listerners work. I also leanred about textContent. 
+  I have a better understanding of how event listerners work. I did not know that they could be inside a function and still work without calling the function
+  I also learned about textContent. 
   
   To create a new Element: 
   
