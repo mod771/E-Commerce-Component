@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: https://github.com/mod771/E-Commerce-Component
-- Live Site URL:
+- Live Site URL: https://mod771.github.io/E-Commerce-Component/
 
 ## My Process
 
