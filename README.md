@@ -19,8 +19,8 @@ Users should be able to:
 - Tax is based on the state of Tennessee sales tax: 0.0975
 
 ### Links
-- Solution URL: https://github.com/mod771/E-Commerce-Component
-- Live Site URL: https://mod771.github.io/E-Commerce-Component/
+- Solution URL: https://github.com/paolas771/E-Commerce-Component
+- Live Site URL: https://paolas771.github.io/E-Commerce-Component/
 
 ## My Process
 
